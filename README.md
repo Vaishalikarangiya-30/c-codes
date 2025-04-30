@@ -2,7 +2,7 @@
 
 1) Basic InputOutput & Operators:</br>
    -> Print hello.</br>
-   -> Sum of two numbers.
+   -> Sum of two numbers.</br>
    -> Swaping of numbers using third variable and without third variable.</br>
    -> Remainder and quotient of numbers.</br>
    -> Find even and odd numbers.</br>
