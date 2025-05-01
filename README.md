@@ -14,4 +14,12 @@
    -> Find the given number is prime number or not.</br>
    -> Find the reverse number of the given number.</br>
 
+3) Switch-Case and Menu-Driven Programs:</br>
+    -> Calculator using switch-case.</br>
+    -> Vowel or consonant using switch.</br>
+    -> Menu-driven area calculator (circle, rectangle, triangle).</br>
+    -> Convert number to word (1-9).</br>
+
+   
+
    
