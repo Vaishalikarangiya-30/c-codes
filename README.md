@@ -17,6 +17,7 @@
 3) Switch-Case and Menu-Driven Programs:</br>
     -> Calculator using switch-case.</br>
     -> Vowel or consonant using switch.</br>
+    -> Number to day (1-Monday...7-Sunday).</br>
     -> Menu-driven area calculator (circle, rectangle, triangle).</br>
     -> Convert number to word (1-9).</br>
 
